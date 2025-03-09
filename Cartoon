@@ -1,6 +1,90 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 group-title="→ canales tv ←",orbit tv
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",adn40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",canal5
+http://181.78.105.146:2000/play/a038/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",Cartoon network
+http://181.78.105.146:2000/play/a03k/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",azteca7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",comedy central
+http://181.78.105.146:2000/play/a04a/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",Nickelodeon
+http://181.78.105.146:2000/play/a014/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",discovery Channel
+http://181.78.105.146:2000/play/a03x/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",Cinecanal
+http://181.78.105.146:2000/play/a04q/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",Warner tv
+http://181.78.105.146:2000/play/a01f/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",claro sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",nat geo 
+http://181.78.105.146:2000/play/a01l/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",discovery science
+http://158.69.118.175:25461/live/salamlink58465/ttb3j5wXnz/32833.ts
+
+
+#EXTINF:-1 group-title="→ canales tv ←",ewtn
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",space
+http://181.78.105.146:2000/play/a04x/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",tnt
+http://181.78.105.146:2000/play/a018/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",Disney Jr
+http://181.78.105.146:2000/play/a03j/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",fx
+http://181.78.105.146:2000/play/a05z/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",a&e
+http://181.78.105.146:2000/play/a03f/index.m3u8
+
+
+#EXTINF:-1 group-title="→ canales tv ←",sky sport
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
 #EXTINF:-1 group-title="→ dinotrux ←",dinotrux ep1
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=cf5297a0474179a06db3613a954f4a6cfd704382&st.mq=5&st.mvid=4237924043267&st.ip=190.217.19.176&st.dla=off&st.exp=1741569583365&st.hls=on&_prevCmd=movieLayer&tkn=9919
 
