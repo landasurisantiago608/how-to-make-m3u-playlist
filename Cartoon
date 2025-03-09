@@ -2,6 +2,25 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="→ toy story toons ←",toy story toons buzz extra mall
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=f687a21716191646f6b9cb6d4268d457f4bf075c&st.mq=2&st.mvid=9400270785205&st.ip=190.217.19.177&st.dla=off&st.exp=1741678215861&st.hls=on&_prevCmd=movieLayer&tkn=8938
+
+
+#EXTINF:-1 group-title="→ toy story toons ←",toy story toons vacaciones en Hawái
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=f07a2aa5a0b49766a27e394bf2f012a9311e69e6&st.mq=2&st.mvid=9400270916277&st.ip=190.131.211.213&st.dla=off&st.exp=1741678428604&st.hls=on&_prevCmd=movieLayer&tkn=3355
+
+
+
+#EXTINF:-1 group-title="→ toy story toons ←",toy story toons fiestasaurus rex
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2b68904aaa6d8a54f4e2c255aa39dbefe39773a2&st.mq=2&st.mvid=9400270850741&st.ip=190.131.211.213&st.dla=off&st.exp=1741678369392&st.hls=on&_prevCmd=movieLayer&tkn=9737
+
+
+#EXTINF:-1 group-title="→ toy story toons ←",toy story de terror
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=5fecf42070dd47897b3d97a27297729d60c25170&st.mq=5&st.mvid=4196908337769&st.ip=190.131.211.213&st.dla=off&st.exp=1741678500520&st.hls=on&_prevCmd=movieLayer&tkn=4639
+
+
+#EXTINF:-1 group-title="→ toy story toons ←",toy story olvidados en el tiempo
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=3a7b75601b02b52452ce7981c78fa3d6a9829ebd&st.mq=5&st.mvid=4196928326249&st.ip=190.131.211.213&st.dla=off&st.exp=1741678654064&st.hls=on&_prevCmd=movieLayer&tkn=5680
 
 #EXTINF:-1 group-title="→ Dug y carl ←",la vida de Dug ep 1
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=f799d0fa88d022cf14e14679ceaa2ec6d465a5dd&st.mq=5&st.mvid=5862071208675&st.ip=190.217.19.177&st.dla=off&st.exp=1741674450004&st.hls=on&_prevCmd=movieLayer&tkn=3398
