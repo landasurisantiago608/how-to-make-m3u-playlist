@@ -2,6 +2,22 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="→ Dug y carl ←",la vida de Dug ep 1
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=f799d0fa88d022cf14e14679ceaa2ec6d465a5dd&st.mq=5&st.mvid=5862071208675&st.ip=190.217.19.177&st.dla=off&st.exp=1741674450004&st.hls=on&_prevCmd=movieLayer&tkn=3398
+
+#EXTINF:-1 group-title="→ Dug y carl ←",la vida de Dug ep 2
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=9f4247856b546bae585eed038a33ebfd0368bcb7&st.mq=5&st.mvid=5862071405283&st.ip=190.217.19.177&st.dla=off&st.exp=1741674626210&st.hls=on&_prevCmd=movieLayer&tkn=5182
+
+#EXTINF:-1 group-title="→ Dug y carl ←",la vida de Dug ep 3
+https://sv2.nupload.site/c5/5e/c5e78402078.m3u8
+
+
+#EXTINF:-1 group-title="→ Dug y carl ←",la vida de Dug ep 4
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=03f091c97462e259522f53e7e3a6a4c93e52fb52&st.mq=5&st.mvid=5862071274211&st.ip=190.217.19.177&st.dla=off&st.exp=1741674693496&st.hls=on&_prevCmd=movieLayer&tkn=1431
+
+#EXTINF:-1 group-title="→ Dug y carl ←",la vida de Dug ep 5
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=9534e716b520122412fc62a264d0c5ae07f6addf&st.mq=3&st.mvid=5862071339747&st.ip=190.217.19.177&st.dla=off&st.exp=1741674728962&st.hls=on&_prevCmd=movieLayer&tkn=3936
+
 #EXTINF:-1 group-title="→ canales tv ←",orbit tv
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
